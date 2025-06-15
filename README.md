@@ -26,5 +26,5 @@ Example Usage
 - [Hugging Face Transformers]
 - [PyPDF2]
 
-Made with 💡 by (https://www.linkedin.com/in/anjali-gupta-8b37b022a/)
+Made with 💡 by [Anjali Gupta](https://www.linkedin.com/in/anjali-gupta-8b37b022a/)
 
